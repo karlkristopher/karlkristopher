@@ -5,7 +5,8 @@
 - passionate about empathic/user-centered design ❤️
 - other skills: ✔️ project management and 🙌 team collaboration
 - avid frisbee-er 🔵 and cyclist 🚲
-- available for short and long-term employment 🤝
+- currently in Canada 🐻
+- available for short and long-term hire 🤝
 
 ## 🎆 My Stack
 <p>
@@ -23,6 +24,8 @@
   <img src="https://img.shields.io/badge/material.ui-0081cb?style=flat-square&logo=material-ui&logoColor=white&labelColor=2C2C30" alt="material-ui-badge" height="25"  />
   <img src="https://img.shields.io/badge/bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white&labelColor=2C2C30" alt="bootstrap-badge" height="25"  />
 </p>
+
+
 
 
 ## 💌 Contact
