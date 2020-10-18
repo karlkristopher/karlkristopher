@@ -4,8 +4,8 @@
 - aspiring front-end / full stack web developer 💻
 - passionate about empathic/user-centered design ❤️
 - other skills: ✔️ project management and 🙌 team collaboration
-- avid 🔵 frisbee-er and 🚲 cyclist
-- 🤝 available for short and long-term employment
+- avid frisbee-er 🔵 and cyclist 🚲
+- available for short and long-term employment 🤝
 
 ## 🎆 My Stack
 <p>
