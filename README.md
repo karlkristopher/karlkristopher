@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2C2C30" alt="html5-badge" height="25"  />
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=2C2C30" alt="css3-badge" height="25"  />
   <img src="https://img.shields.io/badge/sass-cc6699?style=flat-square&logo=sass&logoColor=white&labelColor=2C2C30" alt="sass-badge" height="25"  />
-  <img src="https://img.shields.io/badge/material.ui-0081cb?style=flat-square&logo=material-ui&logoColor=white&labelColor=2C2C30" alt="material-ui-badge" height="25"  />
-  <img src="https://img.shields.io/badge/bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white&labelColor=2C2C30" alt="bootstrap-badge" height="25"  />
 </p>
 
 
