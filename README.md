@@ -5,7 +5,6 @@
 - passionate about empathic/user-centered design ❤️
 - other skills: ✔️ project management and 🙌 team collaboration
 - avid frisbee-er 🔵 and cyclist 🚲
-- currently in Canada 🐻
 - available for short and long-term hire 🤝
 
 ## 🎆 My Stack
