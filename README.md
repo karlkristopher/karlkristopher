@@ -1,4 +1,5 @@
-[![Header](https://res.cloudinary.com/karlkris/image/upload/v1603044536/portfolio/headers/name_header_gmygi6.png)](https://github.com/karlkristopher)
+![Header](./site_header.svg)
+
 ## 👋 About Me
 
 - aspiring full stack web developer 💻
