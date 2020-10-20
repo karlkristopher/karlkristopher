@@ -1,7 +1,7 @@
 [![Header](https://res.cloudinary.com/karlkris/image/upload/v1603044536/portfolio/headers/name_header_gmygi6.png)](https://github.com/karlkristopher)
 ## 👋 About Me
 
-- aspiring front-end / full stack web developer 💻
+- aspiring full stack web developer 💻
 - passionate about empathic/user-centered design ❤️
 - other skills: ✔️ project management and 🙌 team collaboration
 - avid frisbee-er 🔵 and cyclist 🚲
