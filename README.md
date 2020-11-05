@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/ex-express-2C2C30?style=flat-square&labelColor=000000" alt="express-badge" height="25"  />
   <img src="https://img.shields.io/badge/mongodb-2C2C30?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="mongodb-badge" height="25"  />
   <img src="https://img.shields.io/badge/socket.io-2C2C30?style=flat-square&logo=socket.io&logoColor=white&labelColor=010101" alt="socket-io-badge" height="25"  />
+  <img src="https://img.shields.io/badge/jwt-2C2C30?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=000000" alt="git-badge" height="25"  />
   <img src="https://img.shields.io/badge/git-2C2C30?style=flat-square&logo=git&logoColor=white&labelColor=f05032" alt="git-badge" height="25"  />
   <img src="https://img.shields.io/badge/github-2C2C30?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="github-badge" height="25"  />
   <br>
