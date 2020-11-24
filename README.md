@@ -11,7 +11,7 @@
 ## 🎆 My Stack
 <p>
   <img src="https://img.shields.io/badge/javascript-2C2C30?style=flat-square&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="javascript-badge" height="25"  />  
-  <img src="https://img.shields.io/badge/react-2C2C30?style=flat-square&logo=react&logoColor=white&labelColor=61DAFB" alt="nodejs-badge" height="25"  />
+  <img src="https://img.shields.io/badge/react-2C2C30?style=flat-square&logo=react&logoColor=white&labelColor=61DAFB" alt="react-badge" height="25"  />
   <img src="https://img.shields.io/badge/node.js-2C2C30?style=flat-square&logo=node.js&logoColor=white&labelColor=339933" alt="nodejs-badge" height="25"  />
   <img src="https://img.shields.io/badge/ex-express-2C2C30?style=flat-square&labelColor=000000" alt="express-badge" height="25"  />
   <img src="https://img.shields.io/badge/mongodb-2C2C30?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="mongodb-badge" height="25"  />
