@@ -8,10 +8,13 @@
 
 ## 🎆 My Stack
 <p>
-  <img src="https://img.shields.io/badge/javascript-2C2C30?style=flat-square&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="javascript-badge" height="25"  />  
+  <img src="https://img.shields.io/badge/javascript-2C2C30?style=flat-square&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="javascript-badge" height="25"  />
+  <img src="https://img.shields.io/badge/typescript-2C2C30?style=flat-square&logo=typescript&logoColor=white&labelColor=3178c6" alt="typescript-badge" height="25"  />  
   <img src="https://img.shields.io/badge/react-2C2C30?style=flat-square&logo=react&logoColor=white&labelColor=61DAFB" alt="react-badge" height="25"  />
-  <img src="https://img.shields.io/badge/node.js-2C2C30?style=flat-square&logo=node.js&logoColor=white&labelColor=339933" alt="nodejs-badge" height="25"  />
+  <img src="https://img.shields.io/badge/jquery-2C2C30?style=flat-square&logo=jquery&logoColor=white&labelColor=0769AD" alt="jquery-badge" height="25"  />
+  <img src="https://img.shields.io/badge/node.js-2C2C30?style=flat-square&logo=node.js&logoColor=whitenpm r&labelColor=339933" alt="nodejs-badge" height="25"  />
   <img src="https://img.shields.io/badge/ex-express-2C2C30?style=flat-square&labelColor=000000" alt="express-badge" height="25"  />
+  <br>
   <img src="https://img.shields.io/badge/mongodb-2C2C30?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="mongodb-badge" height="25"  />
   <img src="https://img.shields.io/badge/socket.io-2C2C30?style=flat-square&logo=socket.io&logoColor=white&labelColor=010101" alt="socket-io-badge" height="25"  />
   <img src="https://img.shields.io/badge/jwt-2C2C30?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=000000" alt="git-badge" height="25"  />
