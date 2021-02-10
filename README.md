@@ -1,5 +1,3 @@
-![Header](./site_header.svg)
-
 ## 👋 About Me
 
 - passionate about empathic/user-centered design ❤️
