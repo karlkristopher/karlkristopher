@@ -2,7 +2,7 @@
 
 - passionate about empathic/user-centered design ❤️
 - other skills: ✔️ project management and 🙌 team collaboration
-- avid frisbee-er 🔵 and cyclist 🚲
+- avid frisbee-er 🔵  and cyclist 🚲
 
 ## 🎆 My Stack
 <p>
